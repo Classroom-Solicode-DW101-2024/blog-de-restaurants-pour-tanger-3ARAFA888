@@ -1,0 +1,9 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#admin_button{
+    padding: 50px;
+    border-radius: 25px;
+    font-size: 30px;
+}

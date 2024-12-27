@@ -1,0 +1,55 @@
+[
+  {
+    "restaurent_pic": "https://itin-dev.sfo2.cdn.digitaloceanspaces.com/freeImage/tfx4up6fUk8HQIo00wgE2GZhmaFPay8y",
+    "name": "Kebdani Restauran",
+    "specialty": " lzeibfaziA4524352 traditional Moroccan cuisine",
+    "rating": "4.677",
+    "detail": ""
+  },
+  {
+    "restaurent_pic": "https://itin-dev.sfo2.cdn.digitaloceanspaces.com/freeImage/KmXbSKPTyv0Fi2YMoserxANUqGXm71Jc",
+    "name": "Restaurant Saveur de Poisson",
+    "specialty": "poisson",
+    "rating": "4.4",
+    "detail": ""
+  },
+  {
+    "restaurent_pic": "https://itin-dev.sfo2.cdn.digitaloceanspaces.com/freeImage/PJRBwCP2vfTKfNshxm9fdsgz1WPsyANQ",
+    "name": "Café Le Mirage",
+    "specialty": "poisson",
+    "rating": "4.1",
+    "detail": ""
+  },
+  {
+    "restaurent_pic": "https://itin-dev.sfo2.cdn.digitaloceanspaces.com/freeImage/zaQvI9p1gbONND2ykmszKSqynayXaTx8",
+    "name": "Chez Hassan - Bab Kasbah",
+    "specialty": "traditional Moroccan cuisine",
+    "rating": "4.5",
+    "detail": ""
+  },
+  {
+    "name": "CAFE IRAMA",
+    "rating": "4.1"
+  },
+  {
+    "restaurent_pic": "https://itin-dev.sfo2.cdn.digitaloceanspaces.com/freeImage/tfx4up6fUk8HQIo00wgE2GZhmaFPay8y",
+    "name": "Kebdani Restauran ",
+    "specialty": " lzeibfaziA4524352 traditional Moroccan cuisine",
+    "rating": "4.677",
+    "detail": ""
+  },
+  {
+    "restaurent_pic": "https://itin-dev.sfo2.cdn.digitaloceanspaces.com/freeImage/WK6VpXuudnfzuEuEH0ytxpic8NLOrDU9",
+    "name": "El Tangerino",
+    "specialty": "traditional Moroccan cuisine",
+    "rating": "4.1",
+    "detail": ""
+  },
+  {
+    "restaurent_pic": "https://itin-dev.sfo2.cdn.digitaloceanspaces.com/freeImage/WK6VpXuudnfzuEuEH0ytxpic8NLOrDU9",
+    "name": "El Tangerino",
+    "specialty": "traditional Moroccan cuisine",
+    "rating": "4.1",
+    "detail": ""
+  }
+]
